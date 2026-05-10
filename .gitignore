@@ -1,3 +1,7 @@
+# Archivos/Carpetas a excluir
+recetas/
+*.jpg
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
